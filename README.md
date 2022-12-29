@@ -26,7 +26,12 @@ To run this project locally, follow the following steps.
 4. Run `npm install`
 5. Run `npm run start `
 
-**Frontend App** 6. Open a new terminal window and navigate to the project directory. 7. Navigate to the udagram-api folder, `cd udagram-frontend/` 8. Run ` npm install -f` 9. Run `ionic build` 10. Run `ionic serve`
+**Frontend App** 
+1. Open a new terminal window and navigate to the project directory.
+2. Navigate to the udagram-api folder, `cd udagram-frontend/` 
+3. Run ` npm install -f` 
+4. Run `ionic build` 
+5. Run `ionic serve`
 
 ## Screenshots
 

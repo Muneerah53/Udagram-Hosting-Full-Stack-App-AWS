@@ -30,9 +30,9 @@ To run this project locally, follow the following steps.
 
 ## Documentation
 
-- **[Detailed Documation]()** of the project's dependencies, infrastructure, and pipelines.
-- **[Screenshots]()** showing of the last CircleCi build and an overview of each AWS console services (RDS, ElasticBeanstalk, S3)
-- **[Diagrams]()** of the AWS architecture and pipeline.
+- **[Detailed Documation](https://github.com/Muneerah53/Udagram-Hosting-Full-Stack-App-AWS/blob/master/docs/Documentation.md)** of the project's dependencies, infrastructure, and pipelines.
+- **[Screenshots](https://github.com/Muneerah53/Udagram-Hosting-Full-Stack-App-AWS/blob/master/docs/screenshots/)** showing of the last CircleCi build and an overview of each AWS console services (RDS, ElasticBeanstalk, S3)
+- **[Diagrams](https://github.com/Muneerah53/Udagram-Hosting-Full-Stack-App-AWS/blob/master/docs/diagrams/)** of the AWS architecture and pipeline.
 
 ## License
 
